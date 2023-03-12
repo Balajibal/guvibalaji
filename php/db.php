@@ -2,9 +2,9 @@
 
 // MySQL database configuration
 define('DB_HOST', 'localhost');
-define('DB_USERNAME', 'Your_admin_id');//this key can be maintain by admins only
-define('DB_PASSWORD', 'Your_pass');//this also 
-define('DB_NAME', 'balaji');
+define('DB_USERNAME', 'root');//this key can be maintain by admins only
+define('DB_PASSWORD', 'saveetha');//this also 
+define('DB_NAME', 'kumaravel');
 
 // MongoDB database configuration
 define('MONGODB_HOST', 'mongodb://localhost:27017');
