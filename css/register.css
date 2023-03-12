@@ -1,6 +1,6 @@
 body{
     
-  background-image: url("i.jpg");
+  background-image: url("./images/i.jpg");
 }
 .form {
   display: flex;
