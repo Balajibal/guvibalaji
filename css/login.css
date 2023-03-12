@@ -1,6 +1,6 @@
 body{
     
-  background-image: url("/assets/red.jpg");
+  background-color: #00ff75;
 }
 .form {
   display: flex;
