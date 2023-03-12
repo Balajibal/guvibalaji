@@ -4,7 +4,7 @@ To create a signup page where a user can register, a login page to log in with t
 
 ## STEPS:
 
-<h2 Step:1></h2>
+### step1
 create basic html pages to login,register and view profile with index as base using chtml,css and javascript 
 
 <h2 Step:2></h2>
