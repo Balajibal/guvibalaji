@@ -5,7 +5,8 @@
 
 .main{
    width: 100%;
-   background-image: url("/assests/i.jpg");
+   background-color: black;
+   background-image: url("./i.jpg");
    background-position: center;
    background-size: cover;
    height: 300vh;

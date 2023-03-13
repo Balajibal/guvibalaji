@@ -4,7 +4,7 @@
 define('DB_HOST', 'localhost');
 define('DB_USERNAME', 'root');//this key can be maintain by admins only
 define('DB_PASSWORD', 'saveetha');//this also 
-define('DB_NAME', 'kumaravel');
+define('DB_NAME', 'balaji');
 
 // MongoDB database configuration
 define('MONGODB_HOST', 'mongodb://localhost:27017');

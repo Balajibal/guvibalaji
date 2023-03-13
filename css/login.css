@@ -1,10 +1,10 @@
 body{
     
-  background-color: #00ff75;
+  background-color: antiquewhite;
 }
 body{
     
-  background-image: url("/assests/i.jpg");
+  background-image: url("/i.jpg");
 }
 .form {
   display: flex;
